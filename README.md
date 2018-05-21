@@ -1,2 +1,2 @@
 # go-interview
-golang面试常见问题
+golang基础积累
